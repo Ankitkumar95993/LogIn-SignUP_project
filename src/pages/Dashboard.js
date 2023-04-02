@@ -6,7 +6,6 @@ const Dashboard =()=>{
              Welcome to StudyNotion
         </div>
     );
-
 }
 
-export default Dashboard;
+export default Dashboard
